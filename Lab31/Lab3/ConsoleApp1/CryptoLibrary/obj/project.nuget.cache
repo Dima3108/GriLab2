@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "HoNCGO9abUQ=",
+  "success": true,
+  "projectFilePath": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CryptoLibrary\\CryptoLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Дмитрий\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

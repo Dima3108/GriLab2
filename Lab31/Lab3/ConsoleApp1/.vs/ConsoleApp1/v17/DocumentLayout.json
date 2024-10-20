@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493B2CF7-342C-477E-931D-339E6AAA7318}|CryptoLibrary\\CryptoLibrary.csproj|q:\\github_repo\\infosec\\lab31\\lab3\\consoleapp1\\cryptolibrary\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493B2CF7-342C-477E-931D-339E6AAA7318}|CryptoLibrary\\CryptoLibrary.csproj|solutionrelative:cryptolibrary\\aes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493B2CF7-342C-477E-931D-339E6AAA7318}|CryptoLibrary\\CryptoLibrary.csproj|q:\\github_repo\\infosec\\lab31\\lab3\\consoleapp1\\cryptolibrary\\cryptodecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493B2CF7-342C-477E-931D-339E6AAA7318}|CryptoLibrary\\CryptoLibrary.csproj|solutionrelative:cryptolibrary\\cryptodecoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{493B2CF7-342C-477E-931D-339E6AAA7318}|CryptoLibrary\\CryptoLibrary.csproj|q:\\github_repo\\infosec\\lab31\\lab3\\consoleapp1\\cryptolibrary\\cryptoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{493B2CF7-342C-477E-931D-339E6AAA7318}|CryptoLibrary\\CryptoLibrary.csproj|solutionrelative:cryptolibrary\\cryptoencoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8C15B6-04AF-457B-A794-1344CC8E258F}|LibraryValidator\\LibraryValidator.csproj|q:\\github_repo\\infosec\\lab31\\lab3\\consoleapp1\\libraryvalidator\\hashgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8C15B6-04AF-457B-A794-1344CC8E258F}|LibraryValidator\\LibraryValidator.csproj|solutionrelative:libraryvalidator\\hashgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8C15B6-04AF-457B-A794-1344CC8E258F}|LibraryValidator\\LibraryValidator.csproj|q:\\github_repo\\infosec\\lab31\\lab3\\consoleapp1\\libraryvalidator\\valuesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8C15B6-04AF-457B-A794-1344CC8E258F}|LibraryValidator\\LibraryValidator.csproj|solutionrelative:libraryvalidator\\valuesvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD8C15B6-04AF-457B-A794-1344CC8E258F}|LibraryValidator\\LibraryValidator.csproj|q:\\github_repo\\infosec\\lab31\\lab3\\consoleapp1\\libraryvalidator\\unsafemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD8C15B6-04AF-457B-A794-1344CC8E258F}|LibraryValidator\\LibraryValidator.csproj|solutionrelative:libraryvalidator\\unsafemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FCD91A-DB9C-449B-8E4E-4A5CC9994729}|CLIB\\CLIB.vcxproj|Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\ContentHash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4FCD91A-DB9C-449B-8E4E-4A5CC9994729}|CLIB\\CLIB.vcxproj|solutionrelative:CLIB\\ContentHash.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5378B3BB-BE69-43C9-B021-576F183E0F30}|ConsoleApp1\\ConsoleApp1.csproj|Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5378B3BB-BE69-43C9-B021-576F183E0F30}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FCD91A-DB9C-449B-8E4E-4A5CC9994729}|CLIB\\CLIB.vcxproj|Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\ContentHash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4FCD91A-DB9C-449B-8E4E-4A5CC9994729}|CLIB\\CLIB.vcxproj|solutionrelative:CLIB\\ContentHash.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4FCD91A-DB9C-449B-8E4E-4A5CC9994729}|CLIB\\CLIB.vcxproj|Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B4FCD91A-DB9C-449B-8E4E-4A5CC9994729}|CLIB\\CLIB.vcxproj|solutionrelative:CLIB\\Constant.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\CorruptedSourceData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\ComputerMismatchException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\IO\\InputStream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\IO\\OutputStream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|q:\\github_repo\\infosec\\lab3\\archiverauthenticitychecker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AES.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CryptoLibrary\\AES.cs",
+              "RelativeDocumentMoniker": "CryptoLibrary\\AES.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CryptoLibrary\\AES.cs",
+              "RelativeToolTip": "CryptoLibrary\\AES.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAowEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T14:25:09.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CorruptedSourceData.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\CorruptedSourceData.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\CorruptedSourceData.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\CorruptedSourceData.cs",
+              "RelativeToolTip": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\CorruptedSourceData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:52:16.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ComputerMismatchException.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\ComputerMismatchException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\ComputerMismatchException.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\ComputerMismatchException.cs",
+              "RelativeToolTip": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Exceptions\\ComputerMismatchException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:42:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InputStream.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\IO\\InputStream.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\IO\\InputStream.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\IO\\InputStream.cs",
+              "RelativeToolTip": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\IO\\InputStream.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA+wCcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:32:26.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OutputStream.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\IO\\OutputStream.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\IO\\OutputStream.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\IO\\OutputStream.cs",
+              "RelativeToolTip": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\IO\\OutputStream.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAtwFcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:12:59.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T12:04:07.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\Lab3\\ArchiverAuthenticityChecker\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:58:36.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CryptoDecoder.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CryptoLibrary\\CryptoDecoder.cs",
+              "RelativeDocumentMoniker": "CryptoLibrary\\CryptoDecoder.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CryptoLibrary\\CryptoDecoder.cs",
+              "RelativeToolTip": "CryptoLibrary\\CryptoDecoder.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:46:57.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CryptoEncoder.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CryptoLibrary\\CryptoEncoder.cs",
+              "RelativeDocumentMoniker": "CryptoLibrary\\CryptoEncoder.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CryptoLibrary\\CryptoEncoder.cs",
+              "RelativeToolTip": "CryptoLibrary\\CryptoEncoder.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:36:24.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HashGenerator.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\LibraryValidator\\HashGenerator.cs",
+              "RelativeDocumentMoniker": "LibraryValidator\\HashGenerator.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\LibraryValidator\\HashGenerator.cs",
+              "RelativeToolTip": "LibraryValidator\\HashGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:32:42.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValuesValidator.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\LibraryValidator\\ValuesValidator.cs",
+              "RelativeDocumentMoniker": "LibraryValidator\\ValuesValidator.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\LibraryValidator\\ValuesValidator.cs",
+              "RelativeToolTip": "LibraryValidator\\ValuesValidator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T11:22:54.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constant.h",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\Constant.h",
+              "RelativeDocumentMoniker": "CLIB\\Constant.h",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\Constant.h",
+              "RelativeToolTip": "CLIB\\Constant.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T10:01:41.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA+wBAAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T19:07:06.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnsafeMethods.cs",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\LibraryValidator\\UnsafeMethods.cs",
+              "RelativeDocumentMoniker": "LibraryValidator\\UnsafeMethods.cs",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\LibraryValidator\\UnsafeMethods.cs",
+              "RelativeToolTip": "LibraryValidator\\UnsafeMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:58:49.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContentHash.h",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\ContentHash.h",
+              "RelativeDocumentMoniker": "CLIB\\ContentHash.h",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\ContentHash.h",
+              "RelativeToolTip": "CLIB\\ContentHash.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-26T18:50:56.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContentHash.cpp",
+              "DocumentMoniker": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\ContentHash.cpp",
+              "RelativeDocumentMoniker": "CLIB\\ContentHash.cpp",
+              "ToolTip": "Q:\\github_repo\\infosec\\Lab31\\Lab3\\ConsoleApp1\\CLIB\\ContentHash.cpp",
+              "RelativeToolTip": "CLIB\\ContentHash.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-26T18:45:02.37Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

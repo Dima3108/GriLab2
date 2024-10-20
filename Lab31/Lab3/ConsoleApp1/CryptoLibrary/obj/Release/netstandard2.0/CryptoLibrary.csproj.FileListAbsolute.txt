@@ -1,0 +1,11 @@
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\bin\Release\netstandard2.0\CryptoLibrary.deps.json
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\bin\Release\netstandard2.0\CryptoLibrary.dll
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\bin\Release\netstandard2.0\CryptoLibrary.pdb
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.csproj.AssemblyReference.cache
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.AssemblyInfoInputs.cache
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.AssemblyInfo.cs
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.csproj.CoreCompileInputs.cache
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.sourcelink.json
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.dll
+Q:\github_repo\infosec\Lab3\ConsoleApp1\CryptoLibrary\obj\Release\netstandard2.0\CryptoLibrary.pdb

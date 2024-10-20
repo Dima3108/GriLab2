@@ -1,0 +1,12 @@
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\bin\Release\netstandard2.0\DLL\CLIB.dll
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\bin\Release\netstandard2.0\LibraryValidator.deps.json
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\bin\Release\netstandard2.0\LibraryValidator.dll
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\bin\Release\netstandard2.0\LibraryValidator.pdb
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.csproj.AssemblyReference.cache
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.GeneratedMSBuildEditorConfig.editorconfig
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.AssemblyInfoInputs.cache
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.AssemblyInfo.cs
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.csproj.CoreCompileInputs.cache
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.sourcelink.json
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.dll
+Q:\github_repo\infosec\Lab3\ConsoleApp1\LibraryValidator\obj\Release\netstandard2.0\LibraryValidator.pdb
